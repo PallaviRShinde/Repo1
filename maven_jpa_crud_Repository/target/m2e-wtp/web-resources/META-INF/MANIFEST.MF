@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: maven_jpa_crud_Repository
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Kishor
+Implementation-Vendor-Id: com.cjc
+Build-Jdk: 1.8.0_77
+Implementation-URL: http://projects.spring.io/spring-boot/maven_jpa_cr
+ ud_Repository/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

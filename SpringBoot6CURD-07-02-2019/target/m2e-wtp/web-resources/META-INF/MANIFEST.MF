@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBoot6CURD-07-02-2019
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Pallavi
+Implementation-Vendor-Id: com.pallavi.model
+Build-Jdk: 1.8.0_191
+Implementation-URL: http://projects.spring.io/spring-boot/SpringBoot6C
+ URD-07-02-2019/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
